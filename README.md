@@ -1,2 +1,2 @@
-# ML-Project--Mercari-Price-Suggestion
+# Mercari-Price-Suggestion
 ## Kaggle Competition
